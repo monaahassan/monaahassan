@@ -8,8 +8,6 @@ How to reach me:
 
  💬 LinkedIn www.linkedin.com/in/monaahassan
 
- ⚡ My Website www.monamia.dev
-
  🌱 My Blog www.therefinedplatform.com
 
 Languages & technologies -- HTML CSS Javascript React Redux Java PostgreSQL Python
