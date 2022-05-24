@@ -8,9 +8,9 @@ How to reach me:
 
  💬 LinkedIn www.linkedin.com/in/monaahassan
 
- 🌱 My Blog www.therefinedplatform.com
+ 🌱 My Site: www.monamia.co
 
-Languages & technologies -- HTML CSS Javascript React Redux Java PostgreSQL Python
+Languages & technologies -- HTML CSS Javascript React Redux Java PostgreSQL Python & PHP
 
 My Coding Beliefs -- DRY Code: Nothing is worse than having to write the same thing over and over again. I believe you need to let the code do the heavy lifting and write it in a manner that is functional and dynamic. Break It Down: It is best to take big problems and cut them up into bite sized problems. This helps to solve each piece with much more care and speed. Sit Down, Be Humble: You can learn something from everyone if you allow yourself to be humble and listen. Humility is the key ingredient to growing and that is all I have ever aspired to do.
 
