@@ -8,7 +8,6 @@ How to reach me:
 
  💬 LinkedIn www.linkedin.com/in/monaahassan
 
- 🌱 My Site: www.monamia.co
 
 Languages & technologies -- HTML CSS Javascript React Redux Java PostgreSQL Python & PHP
 
