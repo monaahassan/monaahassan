@@ -1,4 +1,4 @@
-### 👋 Hey, my name is Mona(she/her), and I am a software engineer living in Cincinnati, OH.
+### 👋 Hey, my name is Mona (she/her), and I am a software engineer living in Cincinnati, OH.
 
 I am an MN native looking for fresh oppurtunities in OH. In 2020 I started at Lambda School and very quickly became a leader to my peers, offering additional instruction to those who need it. I am currently enrolled in the Cloud Computing program with WGU. 
 
